@@ -47,3 +47,4 @@ Users should be able to:
 - Twitter - [@Deadfligth](https://twitter.com/Deadfligth)
 - Linkedin - [@Deadfligth](https://www.linkedin.com/in/deadflight/)
 - Facebook - [@Deadflight](https://www.facebook.com/Carlos-Correa-105811761669254)
+- Email - [correamillancarlos@gmail.com]
